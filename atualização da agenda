@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR"
+
+<html>
+<head>
+        <title>Agenda</title>
+            <link rel="stylesheet" href="agenda.css"
+</head>
+<body>
+
+    <div>
+        <center>
+            <h1>Agenda</h1>
+
+            <h2>Agenda para controle do projeto</h2>
+        </center>
+        <center>
+            <h1>Fase 1:</h1>
+
+            <h2>11/02/2026</h2>
+            <h3>O grupo criou uma agenda para facilitar no controle do projeto, onde os integrantes fazem anotações sobre e alterações se necessário, sempre marcando data, nome, horário.</h3>
+        </center>
+        <center>
+            <h2>12/02/2026</h2>
+            <h3>O grupo começou a desenvolver o código do projeto com base no código que um dos integrantes já havia feito, tendo feito html, css e js.</h3>
+        </center>
+        <center>
+            <h2>25/02/2026</h2>
+            <h3>Um dos integrantes se reuniu com a cliente do projeto e ambas discutiram sobre do que precisa, do design, a interface e sobre ideias de como poderia ficar.</h3>
+        </center>
+        <center>
+            <h2>27/02/2026</h2>
+            <h3>Hoje, um dos integrantes pesquisou sobre criar um banco de dados para armazenar as informações do sistema de cadastro, facilitando na hora de gerenciar, modificar, e apagar (se necessário).</h3>
+        </center>
+        <center>
+            <h2>05/03/2026</h2>
+            <h3>Hoje o grupo foi até a professora do curso pedir informações sobre criação de banco de dados, organização de equipe, opiniões e comentarios pessoais dela sobre o TCC.</h3>
+        </center>
+        <center>
+            <h2>11/03/2026</h2>
+            <h3>Um dos integrantes do grupo fez um novo rascunho do projeto e esta sendo testado para saber se vai dar certo. E realmente deu. Ficou com uma visibilidade melhor que a outra, dando realmmente um ar de sistema de cadastro hospitalar. A cliente esta adorando o caminhar do projeto e esta muito animada com o resultado final dele. </h3>
+        </center>
+        <center>
+            <h2>18/03/2026</h2>
+            <h3>A professora ensinou a como fazer um fork no github para que o desenvolvimento seja mais fácil e rápido. Com isso, um dos integrantes subiu o projeto pro git fazendo com que os demais integrantes façam o fork no git também.</h3>
+        </center>
+        <center>
+            <h2>24/03/2026</h2>
+            <h3>A gente deu continuidade no tcc e um dos integrantes sentou com a cliente (Francielly) e mostrou todo o desenvolvimento do site até o momento.</h3>
+        </center>
+        <center>
+            <h2>07/04/2026</h2>
+            <h3>Adicionamos mais um botão no site (botão da enfermagem), porém não esta dando certo.</h3>
+        </center>
+        <center>
+            <h2>14/04/2026</h2>
+            <h3>Outras páginas do site foram criadas ( técnico de enfermagem e enfermeiros ) para da continuidade naquele botão anterior ( erro persistente).</h3>
+        </center>
+        <center>
+            <h2>20/04/2026</h2>
+            <h3>Novamente se reunimos com a cliente (Francielly) e mostramos tudo que tinhamos feito ( explicamos o erro que havia no site), ela esta amando ter um site para enfermagem. </h3>
+        </center>
+        <center>
+            <h2>12/05/2026</h2>
+            <h3>Depois de semanas tentando concertar o erro,  finalmente foi resolvido. Agora o problema é linkar uma página com a outra.</h3>
+        </center>
+        <center>
+            <h2>04/05/2026</h2>
+            <h3>Conseguimos montar a parte do código do técnico e da enfermagem, esta ficando lindo, porém, mas que o erro do botão tenha sido concertado, ele não ta reconhencendo que são duas páginas diferentes ( 1 pra 2).</h3>
+        </center>
+        <center>
+            <h2>11/05/2026</h2>
+            <h3>Estamos corrigindo a entregavél, pois a do bimestre anterior não estava coerente ao que a professora pediu ( a um membro responsavél para cada coisa), (obs: tudo isso enquanto corrigi o erro do código).</h3>
+        </center>
+        <center>
+            <h2>15/05/2026</h2>
+            <h3>Finalmente conseguimos arrumar todos os problemas do código e iremos mostrar para cliente na próxima semana.</h3>
+        </center>
+        <center>
+            <h2>18/05/2026</h2>
+            <h3>Não foi possivel mostrar o tcc para a cliente pois ela não tinha horario disponivel e pediu para mostrar para ela na próxima segunda.</h3>
+        </center>
+        <center>
+            <h2>25/05/2026</h2>
+            <h3>Não conseguimos mostrar para cliente pois, um dos integrante foi embora</h3>
+        </center>
+        <center>
+            <h2>28/05/2026</h2>
+            <h3>Mostramos o site para a Francielly e ela simplesmente esta adorando, e esta muito ansiosa para o resultado final e elogiou nosso desenvolvimento (ela pediu para mudar pequenos detalhes e arrumar coisas que faltava enquanto ela testava). </h3>
+        </center>
+        <center>
+            <h2>02/06/2026</h2>
+            <h3>Damos continuidade na entregavél e ao relatório.</h3>
+        </center>
+
+        <center>
+            <h2>09/06/2026</h2>
+            <h3>Hoje, a Sabrina passou a fazer parte da nossa equipe, por problmeas na sua equipe anterior a professora Glaucimara trocou de grupo. Já foi apresentado toda a nossa ideia e compartilhado todos os arquivos com ela.</h3>
+        </center>
+    </div
+</body>
+</html>
