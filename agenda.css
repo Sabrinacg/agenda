@@ -4,9 +4,11 @@ body {
 
     background: linear-gradient(
         to bottom,
-        rgb(222, 9, 204),
-        rgb(194, 9, 231),
-        rgb(17, 47, 218)
+        rgb(201, 85, 192),
+        rgb(208, 97, 230),
+        rgb(129, 107, 255),
+        rgb(108, 130, 255),
+        rgb(71, 93, 222)
     );
 
     font-style: italic;
