@@ -1,15 +1,14 @@
 body {
+
+    background: linear-gradient( #a466f4 , #b78aef, #bda8ec, hsl(239, 70%, 81%), #9cbef5);
+    
+
+    background-attachment: fixed;
+    min-height: 100vh;
     margin: 0;
-    min-height: 200vh;
 
-    background: linear-gradient(
-        to bottom,
-        rgb(201, 85, 192),
-        rgb(208, 97, 230),
-        rgb(129, 107, 255),
-        rgb(108, 130, 255),
-        rgb(71, 93, 222)
-    );
-
+    color: #000000;
+    font-family: 'Times New Roman', serif; 
     font-style: italic;
+    text-align: center;
 }
