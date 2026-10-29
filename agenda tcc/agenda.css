@@ -1,0 +1,14 @@
+body {
+
+    background: linear-gradient( #a466f4 , #b78aef, #bda8ec, hsl(239, 70%, 81%), #9cbef5);
+    
+
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
+
+    color: #000000;
+    font-family: 'Times New Roman', serif; 
+    font-style: italic;
+    text-align: center;
+}
